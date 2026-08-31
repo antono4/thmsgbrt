@@ -1,33 +1,64 @@
-# thmsgbrt
+<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
+<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.
+<h1 align="center">Project 👋</h1>
 
-## 📋 Overview
+<p align="center">
+  <strong></strong>
+</p>
 
-This repository contains **17 files** and is built with the following technologies:
-
-Node.js, JavaScript
-
-## 🚀 Quick Start
-
-```bash
-npm install
-npm run dev
-npm run build
-```
-
-## ✨ Features
-
-- 🔧 Environment config included
-- 📝 Auto-generated documentation
-
-## 🛠️ Technologies
-
-Node.js, JavaScript
-
-## 📄 License
-
-MIT License
+<p align="center">
+  <a href="https://github.com/antono4/thmsgbrt"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/thmsgbrt-blue?logo=github"></a>
+  <a href="https://antono4.github.io/thmsgbrt/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
+  <img alt="Files" src="https://img.shields.io/badge/Files-17-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-01 06:34:46 WIB-lightgrey">
+</p>
 
 ---
-*Last updated: 2026-09-01 06:34:31 WIB*
+
+## 📖 Tentang
+
+Repository **`thmsgbrt`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/thmsgbrt/`](https://antono4.github.io/thmsgbrt/).
+
+## 🗂️ Struktur Proyek
+
+```
+thmsgbrt/
+├── index.html          # Halaman utama (landing / portofolio)
+├── assets/             # Aset statis (css, js, img, vendor)
+├── forms/               # Form handler (PHP)
+```
+
+## 🛠️ Teknologi
+
+Berdasarkan isi repository, proyek ini menggunakan:
+
+- `JavaScript`
+
+> Total **17 file** terdeteksi di repository.
+
+## 🚀 Menjalankan Secara Lokal
+
+Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+
+```bash
+# Tanpa dependency
+python3 -m http.server 8000
+# lalu buka http://localhost:8000
+
+# atau dengan PHP (untuk form handler di forms/)
+php -S localhost:8000
+```
+
+## 📬 Kontak
+
+- GitHub: [antono4](https://github.com/antono4)
+- Situs: [https://antono4.github.io/thmsgbrt/](https://antono4.github.io/thmsgbrt/)
+
+## 📄 Lisensi
+
+Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
+
+---
+
+<sub>README ini di-generate otomatis pada **2026-09-01 06:34:46 WIB** oleh GitHub Actions .</sub>
